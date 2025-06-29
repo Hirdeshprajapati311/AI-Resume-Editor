@@ -29,20 +29,20 @@ start the backend -> uvicorn main:app--reload
 
 ## Folder Structure
  
-resume-ai-editor
-      |
-      backend 
-        |-1. venv
-        |-2. main.py
-      |
-      resume-editor(forntend) 
-        |-1. src
-              |-1. components
-              |-2. store
-              |-3. Types
-              |-4. utils
-              |-5. App.tsx
-              |-6. index.css
+resume-ai-editor/
+│
+├── backend/
+│   ├── venv/
+│   └── main.py
+│
+└── resume-editor/  (Frontend)
+    ├── src/
+    │   ├── components/
+    │   ├── store/
+    │   ├── Types/
+    │   ├── utils/
+    │   ├── App.tsx
+    │   └── index.css
 
 ## Notes
  - Resume upload is mocked — no real file parsing.
