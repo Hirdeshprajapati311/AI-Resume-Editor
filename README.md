@@ -8,14 +8,15 @@ A web-based Resume Editor where you can:
 
 ## Required installations
 
-npm install init
-npm install tailwindcss/vite
-npm install zustand
+ - npm install init
+ - npm install tailwindcss/vite
+ - npm install zustand
 
 ## Initiate Vite
 
-navigate to frontend -> cd resume-editor
-npm run dev
+navigate to frontend 
+-> cd resume-editor
+-> npm run dev
 
 ## Initiate Backend
 
