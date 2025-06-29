@@ -27,8 +27,8 @@ start the backend -> uvicorn main:app--reload
 
 
 ## Folder Structure
- 
-```resume-ai-editor
+``` 
+resume-ai-editor
       |
       backend 
         |-1. venv
