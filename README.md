@@ -28,7 +28,7 @@ start the backend -> uvicorn main:app--reload
 
 
 ## Folder Structure
- 
+ ```
 resume-ai-editor/
 │
 ├── backend/
@@ -43,7 +43,7 @@ resume-ai-editor/
     │   ├── utils/
     │   ├── App.tsx
     │   └── index.css
-
+```
 ## Notes
  - Resume upload is mocked — no real file parsing.
 
